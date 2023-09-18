@@ -1,0 +1,16 @@
+body {
+    background-color: #C44DFF;
+    user-select: none;
+}
+
+::-webkit-scrollbar {
+    display: none;
+  }
+
+#heart-icon {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+    line-height: 1.5;
+    color: blue;
+}
